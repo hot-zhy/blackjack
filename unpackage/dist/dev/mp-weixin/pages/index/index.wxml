@@ -1,0 +1,1 @@
+<view><image style="width:100%;margin-top:20%;" src="../../static/images/black_jack.png" mode="widthFix"></image><button data-event-opts="{{[['tap',[['startGame',['$event']]]]]}}" class="d-flex a-center j-center py-0 button" style="width:50%;margin-top:15%;" bindtap="__e">开始游戏</button></view>

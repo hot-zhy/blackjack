@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#163B3C",
+  "navigationBarTitleText": "BlackJack",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}

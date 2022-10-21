@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/prepare/prepare",
+    "pages/game/game"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "BlackJack"
+  },
+  "usingComponents": {}
+}
